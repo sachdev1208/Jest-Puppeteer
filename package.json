@@ -1,0 +1,21 @@
+{
+  "name": "pupeteerlearn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "dependencies": {
+    "jest-environment-puppeteer": "^4.2.0",
+    "puppeteer": "^1.17.0",
+    "yarn": "^1.16.0",
+    "yarn-install": "^1.0.0"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "jest-puppeteer": "^4.2.0"
+  },
+  "scripts": {
+    "test": "jest-puppeteer"
+  },
+  "author": "Rakesh Sachdev",
+  "license": "ISC"
+}
